@@ -1,7 +1,7 @@
 
 # About
 Ruby exercise from The Odin Project.
- - Implementation of binary-tree data structure from constructed node class.
+ - Implementation of binary-tree data structure with a constructed node class.
  - Breadth-first and depth-first search methods for finding values.
 
 
